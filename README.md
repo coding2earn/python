@@ -1,2 +1,2 @@
 # python
-leaning python programming language
+learning python programming language
