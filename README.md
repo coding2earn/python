@@ -1,5 +1,6 @@
-# python
-readme-edits
-learning python programming language is fun and easier compared to some other programming languages. I've tried to learn C#, Java, JavaScript, Visual Basic, Arduino, and some other languages as well. I want to stick with python and become an advanced level programmer on python... this make take years ;)
-learning python programming language
-master
+
+Paul McWhorter videos on youTube
+
+https://www.youtube.com/watch?v=95w4sx_zoB8&list=PLGs0VKk2DiYylFUUMMv9WiL3x3tpscDUQ
+
+This series of tutorials will take you through step-by-step instructions on how to do projects that combine the Arduino and Python programming language. This combination allows you to take your arduino projects to that next level.
